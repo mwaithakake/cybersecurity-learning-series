@@ -32,8 +32,7 @@ This repo complements my main **Cybersecurity Portfolio** 👉 [View Portfolio](
 
 ---
 
-## 🆕 Latest Update  
-
-- ✅ Completed [MITRE ATT&CK Room](https://tryhackme.com/room/mitre) — *September 2025*  
+## 🔥 Latest Entry
+- [TryHackMe: MITRE ATT&CK Room Notes](./labs/tryhackme-mitre-attack.md) (2025-09-29)
 
 ---
