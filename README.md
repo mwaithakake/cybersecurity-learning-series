@@ -33,6 +33,6 @@ This repo complements my main **Cybersecurity Portfolio** 👉 [View Portfolio](
 ---
 
 ## 🔥 Latest Entry
-- [TryHackMe: MITRE ATT&CK Room Notes](./labs/tryhackme-mitre-attack.md) (2025-09-29)
+- [TryHackMe: MITRE ATT&CK Room Notes](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/labs%20/tryhackme-mitre-attack.md) (2025-09-29)
 
 ---
