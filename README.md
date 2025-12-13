@@ -33,6 +33,8 @@ This repo complements my main **Cybersecurity Portfolio** 👉 [View Portfolio](
 ---
 
 ## 🔥 Latest Entry
-- [TryHackMe: MITRE ATT&CK Room Notes](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/labs%20/tryhackme-mitre-attack.md) (2025-09-29)
+- [TryHackMe: Phishing Hunter Module - Comprehensive Threat Triage](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/labs%20/phishing_hunter.md) (2025-12-13)
+
+---
 
 ---
