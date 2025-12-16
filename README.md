@@ -33,7 +33,7 @@ This repo complements my main **Cybersecurity Portfolio** 👉 [View Portfolio](
 ---
 
 ## 🔥 Latest Entry
-- [TryHackMe: Phishing Hunter Module - Comprehensive Threat Triage](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/labs%20/phishing_hunter.md) (2025-12-13)
+- [TryHackMe: tcpdump intro - TCP Deepdive](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/labs%20/tcpdump_deepdive.md) (2025-12-13)
 
 ---
 
