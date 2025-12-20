@@ -33,7 +33,7 @@ This repo complements my main **Cybersecurity Portfolio** 👉 [View Portfolio](
 ---
 
 ## 🔥 Latest Entry
-- [Nmap Deepdive](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/labs%20/nmap_deepdive.md) (2025-12-13)
+- [Wireshark Traffic Analysis](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/labs%20/wireshark/traffic_analysis.md) (2025-12-13)
 
 ---
 
