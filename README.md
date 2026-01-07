@@ -33,7 +33,7 @@ This repo complements my main **Cybersecurity Portfolio** 👉 [View Portfolio](
 ---
 
 ## 🔥 Latest Entry
-- [Wireshark Traffic Analysis](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/labs%20/wireshark/traffic_analysis.md) (2025-12-13)
+- [Network Detection](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/labs%20/network-detection.md) (2026-01-07)
 
 ---
 
