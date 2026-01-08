@@ -25,7 +25,7 @@ This repo complements my main **Cybersecurity Portfolio** 👉 [View Portfolio](
 
 ## 🛠️ Tools Covered  
 
-- **SIEMs:** Wazuh, Elastic, Splunk  
+- **SIEMs:** Elastic, Splunk  
 - **Analysis Tools:** Wireshark, tcpdump  
 - **Vulnerability Scanners:** Nessus, OpenVAS  
 - **OS & Networks:** Linux, Windows, DNS, HTTP  
