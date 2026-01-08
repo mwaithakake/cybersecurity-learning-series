@@ -33,7 +33,7 @@ This repo complements my main **Cybersecurity Portfolio** 👉 [View Portfolio](
 ---
 
 ## 🔥 Latest Entry
-- [Splunk](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/labs%20/splunk.md) (2026-01-07)
+- [Splunk](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/labs%20/splunk.md) (2026-01-08)
 
 ---
 
