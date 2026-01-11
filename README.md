@@ -18,8 +18,8 @@ This repo complements my main **Cybersecurity Portfolio** 👉 [View Portfolio](
 ## 📂 Structure  
 
 - **/labs** → Writeups for labs  
-- **/projects** → Side projects, automation, or reports  
-- **/notes** → Key takeaways from courses, articles, and certifications  
+- **/projects** → Side projects
+
 
 ---
 
