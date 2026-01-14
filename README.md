@@ -33,7 +33,7 @@ This repo complements my main **Cybersecurity Portfolio** 👉 [View Portfolio](
 ---
 
 ## 🔥 Latest Entry
-- [Data_exfiltration](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/data_exfiltration.md) (2026-01-11)
+- [SIEM Investigation](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/projects/SIEM/Investigation_1.md) (2026-01-11)
 
 ---
 
