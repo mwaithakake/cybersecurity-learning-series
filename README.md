@@ -33,7 +33,7 @@ This repo complements my main **Cybersecurity Portfolio** 👉 [View Portfolio](
 ---
 
 ## 🔥 Latest Entry
-- [SIEM Investigation](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/projects/SIEM/Investigation_1.md) (2026-01-11)
+- [MITM_Investigation](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/projects/network_analysis/MITM-Investigation.md) (2026-01-11)
 
 ---
 
