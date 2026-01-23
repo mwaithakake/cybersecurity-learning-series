@@ -33,7 +33,7 @@ This repo complements my main **Cybersecurity Portfolio** 👉 [View Portfolio](
 ---
 
 ## 🔥 Latest Entry
-- [sSnort Tool](https://github.com/mwaithakake/cybersecurity-learning-series/edit/main/labs%20/Snort.md) (2026-01-23)
+- [Snort](https://github.com/mwaithakake/cybersecurity-learning-series/edit/main/labs%20/Snort.md) (2026-01-23)
 
 ---
 
