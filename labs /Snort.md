@@ -1,4 +1,5 @@
-## Snort Room Write-Up
+## Snort Tool Write-Up
+
 **Date:** January 23, 2026
 
 **Tools:** Snort v2.9.7.0, Linux CLI, Traffic Generator, Nano
