@@ -33,7 +33,7 @@ This repo complements my main **Cybersecurity Portfolio** 👉 [View Portfolio](
 ---
 
 ## 🔥 Latest Entry
-- [Malware_NetworkTrafficAnalysis_Investigation](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/projects/network_analysis/malware_network_traffic_investigation.md) (2026-01-11)
+- [sSnort Tool](https://github.com/mwaithakake/cybersecurity-learning-series/edit/main/labs%20/Snort.md) (2026-01-23)
 
 ---
 
