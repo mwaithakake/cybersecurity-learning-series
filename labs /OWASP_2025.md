@@ -1,4 +1,4 @@
-# 🛡️ OWASP Top 10: 2025 Study Series
+# 🛡️ OWASP Top 10: 2025 
 **Date:** January 27, 2026
 **Topic:** Core Vulnerabilities & IAAA Framework
 
