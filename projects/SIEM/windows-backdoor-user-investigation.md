@@ -2,7 +2,7 @@
 
 
 # SIEM Alert Investigation Report  
- **Tool:** Splunk  
+**Tool:** Splunk  
 **Log Sources:** Windows Security Logs, Sysmon, PowerShell Operational Logs  
 
 ---
