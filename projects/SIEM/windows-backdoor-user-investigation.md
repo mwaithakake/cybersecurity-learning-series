@@ -2,7 +2,6 @@
 
 
 # SIEM Alert Investigation Report  
-**Role:** SOC Analyst (Tier 1 – Simulation)  
 **Tool:** Splunk  
 **Log Sources:** Windows Security Logs, Sysmon, PowerShell Operational Logs  
 
