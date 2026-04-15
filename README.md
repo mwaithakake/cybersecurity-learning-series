@@ -33,6 +33,6 @@ This repo complements my main **Cybersecurity & IT Portfolio** 👉 [View Portfo
 
 ## 🔥 Latest Entry
 
-- [Secure_network_architecture](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/labs%20/secure_network_architecture.md) (2026-03-31)  
+- [Breaching_Active_Directory](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/labs%20/active_directory/breaching_AD.md) (2026-04-15)  
 
 ---
