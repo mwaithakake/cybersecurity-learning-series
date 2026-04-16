@@ -33,6 +33,6 @@ This repo complements my main **Cybersecurity & IT Portfolio** 👉 [View Portfo
 
 ## 🔥 Latest Entry
 
-- [Breaching_Active_Directory](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/labs%20/active_directory/breaching_AD.md) (2026-04-15)  
+- [Active_Directory_Hardening](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/labs%20/active_directory/active_directory_hardening.md) (2026-04-16)  
 
 ---
