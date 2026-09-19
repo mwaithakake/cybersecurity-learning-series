@@ -152,6 +152,27 @@ nmap -sT 10.80.173.224
 * **Connect Scan (`-sT`):** Completes the full TCP handshake (SYN, SYN-ACK, ACK). This forces the host to fully commit resources to the session, which is easily logged by the operating system and applications.
 * **SYN Scan (`-sS`):** Sends a RST packet immediately after receiving the SYN-ACK. This **resets the session** before the handshake is finalized, leading to a much lower chance of being logged by higher-level security solutions. This is why it is truly considered a stealth scan.
 
+
+## 🧭 Nmap Quick Reference
+
+| Command                | Think                          |
+| ---------------------- | ------------------------------ |
+| `nmap target`          | Basic TCP scan                 |
+| `nmap -sn target`      | **Who is alive?**              |
+| `nmap -sL target`      | **What targets would I scan?** |
+| `nmap -Pn target`      | **Assume host is alive**       |
+| `nmap -sS target`      | **TCP SYN scan**               |
+| `nmap -sT target`      | **TCP full connection**        |
+| `nmap -sU target`      | **UDP scan**                   |
+| `nmap -p- target`      | **All TCP ports**              |
+| `nmap -F target`       | **100 common ports**           |
+| `nmap -sV target`      | **What service/version?**      |
+| `sudo nmap -O target`  | **What OS?**                   |
+| `nmap -sC target`      | **Default NSE scripts**        |
+| `nmap -A target`       | **Broad enumeration**          |
+| `nmap -v target`       | **More output**                |
+| `nmap -oA name target` | **Save results**               |
+
 ```
 
 ```
