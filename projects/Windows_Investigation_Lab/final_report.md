@@ -84,6 +84,9 @@ The command was executed using PowerShell's `-EncodedCommand` parameter.
 * `powershell_encoding.png` — encoded command generation and execution
 <img width="1295" height="452" alt="powershell_encoding" src="https://github.com/user-attachments/assets/8fdf674e-a398-4e24-a709-d1d705759d3c" />
 
+* `Screenshot 2026-10-05 114038.png` — Sysmon Process Creation event
+  <img width="1305" height="361" alt="Screenshot 2026-10-05 114038" src="https://github.com/user-attachments/assets/d0eeb075-8951-486a-a146-fc2fe8e02393" />
+
 * `powershell_encoding2.png` — PowerShell Event ID 4104
   <img width="1298" height="811" alt="powershell_encoding2" src="https://github.com/user-attachments/assets/b2254e2c-db61-4565-ba42-5b0486e723d5" />
 
@@ -218,6 +221,7 @@ Because this was a controlled laboratory simulation, the findings represent **si
 | `discovery.png` | Baseline accounts and running processes |
 | `powershell_encoding.png` | Encoded PowerShell command generation |
 | `powershell_encoding2.png` | PowerShell Event ID 4104 |
+| `Screenshot 2026-10-05 114038.png` |	Sysmon Process Creation for PowerShell
 | `file staging.png` | File staging and concealment commands |
 | `filestaging.png` | Sysmon Event ID 11 |
 | `registrykeys.png` | Sysmon Process Creation for `attrib.exe` |
