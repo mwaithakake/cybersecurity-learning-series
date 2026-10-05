@@ -1,38 +1,72 @@
-# 🛡️ Cybersecurity & IT Learning Series  
+# 🛡️ Cybersecurity Learning Series
 
-Welcome to my **Cybersecurity & IT Learning Series** 🚀 — a collection of hands-on labs, projects, and reflections documenting my growth in IT infrastructure, cloud, and security fundamentals.  
+Welcome to my **Cybersecurity Learning Series** 🚀 — a collection of hands-on labs, practical projects, technical exercises, and reflections documenting my development in cybersecurity and IT.
 
-This repo complements my main **Cybersecurity & IT Portfolio** 👉 [View Portfolio](https://github.com/mwaithakake/Martha-Waithaka/blob/main/cybersecurity.md)  
+This repository complements my main **Cybersecurity Portfolio**:
 
----
-
-## 🌱 Purpose  
-
-- Track progress in IT systems, networking, and cybersecurity labs/projects  
-- Document practical skills in Windows, Linux, Active Directory, network analysis, and cloud fundamentals  
-- Build consistency in technical documentation and portfolio-ready projects  
-- Serve as a reference for recruiters, peers, and fellow learners  
+👉 [View Portfolio](https://github.com/mwaithakake/Martha-Waithaka/blob/main/cybersecurity.md)
 
 ---
 
-## 📂 Structure  
+## 🌱 Purpose
 
-- **/labs** → Hands-on lab writeups 
-- **/projects** → Practical projects demonstrating IT, cloud, and security skills  
+This repository documents my progression from guided hands-on learning toward independently understanding and investigating technical problems.
+
+It includes:
+
+- Hands-on cybersecurity and IT labs
+- Practical investigation projects
+- Technical exercises and experiments
+- Notes on tools, systems, and concepts I am learning
+- Reflections on what I learned and how I approached a problem
+
+The goal is not simply to collect completed labs, but to build the ability to **understand what is happening, work with evidence, troubleshoot problems, and explain my findings clearly.**
+
+---
+
+## 📂 Repository Structure
+
+- **/labs** → Guided and hands-on lab exercises
+- **/projects** → Practical projects focused on investigation, security, and IT infrastructure
 
 ---
 
-## 🛠️ Tools & Technologies  
+## 🛠️ Technologies & Tools
 
-- **IT & Systems:** Windows Server, Active Directory, Linux (CLI)  
-- **Networking & Traffic Analysis:** Wireshark, tcpdump, DNS, TCP/IP  
-- **Security & Monitoring:** Splunk, Elastic, Nessus, OpenVAS  
-- **Cloud:** AWS fundamentals, IAM, EC2, S3  
+### Windows & Infrastructure
+- Windows Server
+- Windows 11
+- Active Directory
+- Group Policy
+- PowerShell
+- Windows Event Logs
+
+### Security & Investigation
+- Sysmon
+- SIEM fundamentals
+- Log analysis
+- Endpoint investigation
+- MITRE ATT&CK
+
+### Networking
+- Wireshark
+- tcpdump
+- TCP/IP
+- DNS
+- ARP
+
+### Operating Systems
+- Windows
+- Linux
 
 ---
 
-## 🔥 Latest Entry
+## 📈 Learning Progress
 
-- [Active_Directory_Hardening](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/labs%20/active_directory/active_directory_hardening.md) (2026-04-16)  
+This repository is a record of my ongoing development. Some entries are guided learning exercises, while others represent projects where I have applied concepts more independently.
+
+As my understanding develops, I revisit and improve earlier work rather than treating completed labs as the end of the learning process.
 
 ---
+
+_This series documents the process of turning cybersecurity concepts into practical skills through hands-on work, investigation, and continuous learning._
