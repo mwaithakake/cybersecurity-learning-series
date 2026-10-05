@@ -11,7 +11,7 @@
 
 A controlled attack simulation was conducted on the Windows 11 workstation `Martha` to evaluate host-level visibility and investigative capability.
 
-The simulation generated several attacker-like activities, including system discovery, encoded PowerShell execution, file staging and concealment, and registry-based persistence. Sysmon and PowerShell Script Block Logging were used to collect and correlate evidence across the different stages.
+The simulation generated several attacker-like activities, including encoded PowerShell execution, file staging and concealment, and registry-based persistence. Sysmon and PowerShell Script Block Logging were used to collect and correlate evidence across the different stages.
 
 The investigation successfully reconstructed the activity using process, file, registry, and PowerShell telemetry.
 
@@ -102,7 +102,7 @@ Write-Output 'InvestigationLabActive'; Get-Service
 
 **Analysis:** Encoding can make PowerShell commands less obvious to simple string-based detection, but it does not make the activity invisible. Script Block Logging provided visibility into the underlying command.
 
-**Finding:** Encoded PowerShell execution was successfully detected and the underlying command was recovered through Event ID 4104.
+**Finding:** Encoded PowerShell execution was identified, and the underlying command was recovered through Event ID 4104.
 
 ---
 
