@@ -4,7 +4,7 @@ Welcome to my **Cybersecurity Learning Series** 🚀 — a collection of hands-o
 
 This repository complements my main **Cybersecurity Portfolio**:
 
-👉 [View Portfolio](https://github.com/mwaithakake/Martha-Waithaka/blob/main/cybersecurity.md)
+👉 [View Portfolio](https://mwaithakake.github.io/Martha-Waithaka/cybersecurity.html)
 
 ---
 
