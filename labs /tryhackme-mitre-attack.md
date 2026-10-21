@@ -1,28 +1,12 @@
-# TryHackMe — MITRE ATT&CK Room (Learning Notes)
+# TryHackMe — MITRE ATT&CK FRAMEWORK
 
 **Date:** 2025-09-29  
 **Platform:** TryHackMe  
-**Room:** MITRE **
-**Difficulty:** medium  
 
 ---
 
 ## Overview
 Completed the TryHackMe **MITRE** room to learn how the ATT&CK framework and related MITRE resources help defenders classify adversary behaviour, identify useful telemetry sources, and design basic detection & response ideas. The room covers multiple MITRE projects and how they support defensive workflows.
-
-
----
-
-## Room structure / Tasks (as listed on TryHackMe)
-1. **Task 1 — Introduction to MITRE**  
-2. **Task 2 — Basic Terminology**  
-3. **Task 3 — ATT&CK® Framework**  
-4. **Task 4 — CAR Knowledge Base**  
-5. **Task 5 — MITRE Engage**  
-6. **Task 6 — MITRE D3FEND**  
-7. **Task 7 — ATT&CK® Emulation Plans**  
-8. **Task 8 — ATT&CK® and Threat Intelligence**  
-9. **Task 9 — Conclusion**
 
 ---
 
