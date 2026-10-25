@@ -72,7 +72,6 @@ The scan generated network traffic that could be observed by Snort. Nmap reporte
 
 **Screenshot 2 — Nmap Scan Results from Kali Linux**
 <img width="1854" height="967" alt="nmap_scan" src="https://github.com/user-attachments/assets/a74ad332-91a0-4b86-8543-887dd755d9f2" />
-`![Nmap Scan Results](nmap_scan.jpg)`
 
 
 *(Execution of the Nmap SYN scan from the Kali Linux terminal targeting 192.168.56.107.)*
