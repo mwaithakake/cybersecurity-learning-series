@@ -126,9 +126,6 @@ attrib +h C:\Users\Public\AuditTemp\secrets.txt
 
 **Evidence:**
 
-* `file staging.png` — staging and concealment commands
-* <img width="1848" height="406" alt="file staging" src="https://github.com/user-attachments/assets/a28b3168-7dcc-4ab3-bcf2-132c7d5164cb" />
-
 * `filestaging.png` — Sysmon Event ID 11 showing file creation
 * <img width="1300" height="785" alt="filestaging" src="https://github.com/user-attachments/assets/34e5bff3-109b-4e59-8f91-69e2b39f4527" />
 
