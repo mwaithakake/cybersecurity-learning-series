@@ -129,10 +129,6 @@ attrib +h C:\Users\Public\AuditTemp\secrets.txt
 * `filestaging.png` — Sysmon Event ID 11 showing file creation
 * <img width="1300" height="785" alt="filestaging" src="https://github.com/user-attachments/assets/34e5bff3-109b-4e59-8f91-69e2b39f4527" />
 
-* `registrykeys.png` — Sysmon Event ID 1 showing `attrib.exe` execution
-  <img width="1846" height="430" alt="registrykeys" src="https://github.com/user-attachments/assets/f5a39b50-73ab-4fb4-97b0-8dc5c94ddcff" />
-
-
 Sysmon Event ID 11 confirmed creation of `secrets.txt`, while Event ID 1 captured execution of `attrib.exe` against the file.
 
 **Analysis:** The sequence simulates an attacker staging and concealing a file before potential further activity. The evidence confirms file creation and concealment but does not demonstrate actual data theft or exfiltration.
