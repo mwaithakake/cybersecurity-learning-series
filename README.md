@@ -1,72 +1,25 @@
-# 🛡️ Cybersecurity Learning Series
+# Cybersecurity Learning Series
 
-Welcome to my **Cybersecurity Learning Series** 🚀 — a collection of hands-on labs, practical projects, technical exercises, and reflections documenting my development in cybersecurity and IT.
+A collection of hands-on labs, investigation projects, CTF write-ups, and notes documenting how I'm building practical skills in defensive cybersecurity and IT.
 
-This repository complements my main **Cybersecurity Portfolio**:
+This repository is the working record behind my main portfolio:
 
-👉 [View Portfolio](https://mwaithakake.github.io/Martha-Waithaka/cybersecurity.html)
-
----
-
-## 🌱 Purpose
-
-This repository documents my progression from guided hands-on learning toward independently understanding and investigating technical problems.
-
-It includes:
-
-- Hands-on cybersecurity and IT labs
-- Practical investigation projects
-- Technical exercises and experiments
-- Notes on tools, systems, and concepts I am learning
-- Reflections on what I learned and how I approached a problem
-
-The goal is not simply to collect completed labs, but to build the ability to **understand what is happening, work with evidence, troubleshoot problems, and explain my findings clearly.**
+**[View my Cybersecurity Portfolio →](https://mwaithakake.github.io/Martha-Waithaka/)**
 
 ---
 
-## 📂 Repository Structure
+## What's in this repository
 
-- **/labs** → Guided and hands-on lab exercises
-- **/projects** → Practical projects focused on investigation, security, and IT infrastructure
-
----
-
-## 🛠️ Technologies & Tools
-
-### Windows & Infrastructure
-- Windows Server
-- Windows 11
-- Active Directory
-- Group Policy
-- PowerShell
-- Windows Event Logs
-
-### Security & Investigation
-- Sysmon
-- SIEM fundamentals
-- Log analysis
-- Endpoint investigation
-- MITRE ATT&CK
-
-### Networking
-- Wireshark
-- tcpdump
-- TCP/IP
-- DNS
-- ARP
-
-### Operating Systems
-- Windows
-- Linux
+| Folder | Contents |
+|---|---|
+| `/projects` | Investigation, detection, and infrastructure projects, documented with evidence, findings, and limitations |
+| `/labs` | Guided hands-on lab exercises |
+| `/CTFs` | Capture-the-flag challenge write-ups |
+| `/Notes` | Study notes on tools, systems, and concepts |
 
 ---
 
-## 📈 Learning Progress
+## How to read it
 
-This repository is a record of my ongoing development. Some entries are guided learning exercises, while others represent projects where I have applied concepts more independently.
+This repository is a record of progress. Some entries are guided learning exercises, while others are projects where I worked more independently. I revisit and improve earlier work as my understanding develops, rather than treating a completed lab as the end of the learning.
 
-As my understanding develops, I revisit and improve earlier work rather than treating completed labs as the end of the learning process.
-
----
-
-_This series documents the process of turning cybersecurity concepts into practical skills through hands-on work, investigation, and continuous learning._
