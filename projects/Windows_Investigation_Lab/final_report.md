@@ -81,13 +81,13 @@ Write-Output 'InvestigationLabActive'; Get-Service
 The command was executed using PowerShell's `-EncodedCommand` parameter.
 
 **Evidence:**
-* `powershell_encoding.png` — encoded command generation and execution
-<img width="1295" height="452" alt="powershell_encoding" src="https://github.com/user-attachments/assets/8fdf674e-a398-4e24-a709-d1d705759d3c" />
+* Encoded command generation and execution
+* <img width="1848" height="406" alt="the_real_powershell_encoding" src="https://github.com/user-attachments/assets/0b6ed16d-fadb-479d-9662-ff960cb74b51" />
 
-* `Screenshot 2026-10-05 114038.png` — Sysmon Process Creation event
+* Sysmon Event ID 1 Process Creation event 
   <img width="1305" height="361" alt="Screenshot 2026-10-05 114038" src="https://github.com/user-attachments/assets/d0eeb075-8951-486a-a146-fc2fe8e02393" />
 
-* `powershell_encoding2.png` — PowerShell Event ID 4104
+* PowerShell Event ID 4104
   <img width="1298" height="811" alt="powershell_encoding2" src="https://github.com/user-attachments/assets/b2254e2c-db61-4565-ba42-5b0486e723d5" />
 
 
@@ -126,7 +126,7 @@ attrib +h C:\Users\Public\AuditTemp\secrets.txt
 
 **Evidence:**
 
-* `filestaging.png` — Sysmon Event ID 11 showing file creation
+* `filestaging.png` — Sysmon Event ID 1 showing file creation
 * <img width="1300" height="785" alt="filestaging" src="https://github.com/user-attachments/assets/34e5bff3-109b-4e59-8f91-69e2b39f4527" />
 
 Sysmon Event ID 11 confirmed creation of `secrets.txt`, while Event ID 1 captured execution of `attrib.exe` against the file.
@@ -206,20 +206,5 @@ Because this was a controlled laboratory simulation, the findings represent **si
 4. **Correlate process, file, registry, and PowerShell events** to reconstruct activity and establish an accurate timeline.
 
 ---
-
-## Appendix: Evidence Index
-
-| Screenshot | Evidence |
-| --- | --- |
-| `discovery.png` | Baseline accounts and running processes |
-| `powershell_encoding.png` | Encoded PowerShell command generation |
-| `powershell_encoding2.png` | PowerShell Event ID 4104 |
-| `Screenshot 2026-10-05 114038.png` |	Sysmon Process Creation for PowerShell
-| `file staging.png` | File staging and concealment commands |
-| `filestaging.png` | Sysmon Event ID 11 |
-| `registrykeys.png` | Sysmon Process Creation for `attrib.exe` |
-| `registry1.png` | Sysmon Event ID 1 for `reg.exe` |
-| `registry2.png` | Sysmon Event ID 13 for Registry Run key modification |
-
 
 
